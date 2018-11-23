@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-
-"""
 #getting the data and preprocessing it
 
 import numpy as np
